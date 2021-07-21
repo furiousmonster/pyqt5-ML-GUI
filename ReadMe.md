@@ -6,7 +6,7 @@
 
 
 ## 模型训练
-![模型界面1](https://github.com/furiousmonster/pyqt5-ML-GUI/blob/master/imgs/%E4%B8%BB%E7%95%8C%E9%9D%A21.png)
+![模型界面1](https://github.com/furiousmonster/pyqt5-ML-GUI/blob/master/imgs/%E6%A8%A1%E5%9E%8B%E7%95%8C%E9%9D%A21.png)
 
 
 ## 训练结果
